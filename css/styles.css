@@ -10,9 +10,16 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #333;
+    border: 2px solid #333;
 }
-
+#cabecera
+{
+    border: 5px solid #4423ee;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 24px;
+    background-color: pink;    
+}
 #container h1
 {
     font-size: 20px;
