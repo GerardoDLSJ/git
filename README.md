@@ -5,3 +5,4 @@ Esta es una prueba de mi primer readme.
 - Para agregar una lista no ordenada.
 - Creado por el increible gera.
 - Incluye ejemplos windows y mac
+- Disverso y atractivo
